@@ -95,15 +95,6 @@ Synthetic images are assessed via:
 
 ---
 
-## 📊 Example Outputs  
-
-Here is a placeholder example (replace with your own generated images):  
-
-<p align="center">
-  <img src="https://via.placeholder.com/500x400.png?text=Sample+Synthetic+Chest+X-Ray" alt="Synthetic X-Ray Example" width="65%" style="border-radius:15px;"/>
-</p>  
-
----
 
 ## 🧭 Ethical Considerations  
 
